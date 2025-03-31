@@ -30,17 +30,17 @@ export default function Skill() {
           Technical Skills
         </h2>
 
-        <div className="space-y-10">
+        <div className="space-y-16">
           {Object.entries(skills).map(([category, skillList]) => (
             <div key={category}>
-              <h3 className="text-xl md:text-2xl font-semibold text-white mb-4">
+              <h3 className="text-xl md:text-2xl font-semibold text-white mb-6">
                 {icons[category as SkillCategory]} {category}
               </h3>
-              <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4 md:gap-6 text-center">
+              <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-5 md:gap-6 text-center">
                 {skillList.map((skill) => (
                   <div
                     key={skill}
-                    className="p-4 border border-gray-700 rounded-lg cursor-pointer hover:bg-yellow-400 hover:text-black transition text-sm md:text-base"
+                    className="py-5 px-3 border border-gray-700 rounded-xl cursor-pointer hover:bg-yellow-400 hover:text-black transition text-base md:text-lg font-medium"
                   >
                     {skill}
                   </div>
