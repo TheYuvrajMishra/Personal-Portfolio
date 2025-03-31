@@ -1,0 +1,83 @@
+Yuvraj Mishra
+Web Designer & Developer | UI/UX Specialist
+Freelance Artist from Kolkata, India
+📧 yuvraj@email.com | 🌐 LinkedIn | GitHub | Behance
+
+🔶 I don’t just build websites — I create digital art.
+👤 About Me
+I’m Yuvraj Mishra, a self-taught web designer and developer with an artist’s soul. Based in Kolkata, India, I approach every website as a canvas — blending sleek UI/UX with powerful front-end frameworks.
+
+With over 3 years of personal experience and certifications in data structures, responsive web design, and modern technologies like React and TypeScript, I bring both aesthetics and performance to the table.
+
+🛠️ Skills & Tools
+Languages & Libraries
+ReactJS
+
+TypeScript
+
+JavaScript
+
+Python
+
+Tailwind
+
+Bootstrap
+
+Material-UI
+
+Tools
+VS Code
+
+GitHub
+
+Shadcn/UI
+
+Strengths
+UI/UX Precision
+
+Frontend Efficiency
+
+Artistic Design Approach
+
+🚀 Featured Projects
+SmartInterestAI
+UI/UX Design & Frontend Development
+
+Built with React + Tailwind + Shadcn
+
+Designed to feel futuristic and intuitive
+
+Monthly Compliance Report Generator
+Full-Stack Development
+
+Converts raw user input into clean, downloadable PDFs
+
+Clean and stunning interface
+
+Typing Faster
+UI/UX + Algorithm Development
+
+Real-time WPM tracker
+
+Minimalist design and smooth animations
+
+Finhub Landing Page
+Design + Development
+
+Modern, conversion-focused landing page
+
+Built using black & yellow theme with glassmorphism
+
+🌟 Testimonials
+“Working with Yuvraj was like watching a coder paint a masterpiece. Fast, clean, and seriously cool.”
+— Dummy Name
+
+“He brought our idea to life in a way we didn’t imagine. UI feels alive.”
+— Dummy Name
+
+📬 Let’s Connect
+Looking to hire a designer who sees code as an art form? Or a developer who understands design? Let’s chat.
+
+📧 yuvraj@email.com
+🔗 LinkedIn | GitHub | Behance
+
