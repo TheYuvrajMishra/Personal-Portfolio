@@ -23,7 +23,7 @@ export default function Skill() {
       {/* Skills Section */}
       <section
         id="skills"
-        className="py-20 px-4 md:px-6 bg-black"
+        className="py-20 px-4 md:px-6 bg-[rgba(255, 255, 255, 0.57)] backdrop-blur-lg"
         data-aos="fade-up"
       >
         <h2 className="text-2xl md:text-3xl font-bold text-yellow-400 mb-10">

@@ -4,7 +4,7 @@ export default function Projects() {
   return (
     <div>
       {/* Projects Section */}
-      <section id="projects" className="py-20 px-4 md:px-6 bg-gradient-to-b from-gray-900 to-black" data-aos="fade-up">
+      <section id="projects" className="py-20 px-4 md:px-6 bg-gradient-to-b from-gray-900 to-Transparent" data-aos="fade-up">
         <h2 className="text-2xl md:text-3xl font-bold text-yellow-400 mb-6 md:mb-8">Projects</h2>
         <div className="grid sm:grid-cols-2 gap-6 md:gap-8">
           {[
