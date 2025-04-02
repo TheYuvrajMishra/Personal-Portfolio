@@ -1,18 +1,45 @@
 import React from "react";
 
 export default function Skill() {
-  // Define skill categories as a union type
-  type SkillCategory = "Frontend" | "Backend / Language" | "Styling / UI" | "Tools & Platforms";
+  type SkillCategory =
+    | "Frontend"
+    | "Backend / Language"
+    | "Styling / UI"
+    | "Tools & Platforms";
 
   const skills: Record<SkillCategory, string[]> = {
-    "Frontend": ["ReactJS", "TypeScript", "JavaScript"],
-    "Backend / Language": ["Python"],
-    "Styling / UI": ["Tailwind CSS", "Bootstrap", "Material-UI"],
-    "Tools & Platforms": ["GitHub"],
+    Frontend: [
+      "ReactJS",
+      "TypeScript",
+      "Next.js",
+      "Framer Motion",
+    ],
+    "Backend / Language": [
+      "Python",
+      "JavaScript",
+      "Node.js",
+      "MongoDB",
+      "MySQL",
+    ],
+    "Styling / UI": [
+      "Tailwind CSS",
+      "Bootstrap",
+      "Material-UI",
+      "Figma",
+      "Shadcn/UI",
+    ],
+    "Tools & Platforms": [
+      "GitHub",
+      "VS Code",
+      "Firebase",
+      "Netlify",
+      "Vercel",
+      "Linux / Ubuntu",
+    ],
   };
 
   const icons: Record<SkillCategory, string> = {
-    "Frontend": "🧠",
+    Frontend: "🧠",
     "Backend / Language": "💻",
     "Styling / UI": "🎨",
     "Tools & Platforms": "🛠️",

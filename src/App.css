@@ -13,3 +13,10 @@
 .animate-slide-in {
   animation: slide-in 0.8s ease-out;
 }
+
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+}

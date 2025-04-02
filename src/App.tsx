@@ -17,7 +17,7 @@ const App = () => {
 
   return (
     <div
-      className="min-h-screen text-white font-sans bg-cover bg-center bg-fixed"
+      className="min-h-screen text-white font-sans bg-cover bg-center bg-fixed scroll-smooth"
       style={{ backgroundImage: `url(${img})` }}
     >
       <Navbar />
